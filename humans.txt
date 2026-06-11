@@ -1,0 +1,14 @@
+/* TEAM */
+    Abhishek Gopan -- Software Developer
+    Site: https://github.com/abhishekgopan888
+    Contact: abhishekgopan08@gmail.com
+    Location: Thodupuzha, Idukki, Kerala, India
+
+/* THANKS */
+    To all open source contributors and the developer community.
+
+/* SITE */
+    Last update: 2026/06/11
+    Standards: HTML5, CSS3, JavaScript
+    Components: Flutter, Laravel, React, PHP, MySQL, Bootstrap
+    Software: VS Code, Git

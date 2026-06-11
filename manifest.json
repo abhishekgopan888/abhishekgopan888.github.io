@@ -1,0 +1,21 @@
+{
+  "name": "Abhishek Gopan | Software Developer",
+  "short_name": "Abhishek Portfolio",
+  "description": "Professional Portfolio of Abhishek Gopan - Software Developer",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f0715",
+  "theme_color": "#0076f7",
+  "icons": [
+    {
+      "src": "assets/img/me/mee.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/me/mee.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
